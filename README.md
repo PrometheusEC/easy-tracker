@@ -38,25 +38,6 @@ Python, R, or any other spreadsheet/data tool.
 
 ---
 
-## Screenshots
-
-Add screenshots to a folder named `screenshots/`, then replace these placeholders:
-
-```text
-screenshots/
-├── main-light.png
-├── main-dark.png
-├── add-application.png
-└── hover-notes.png
-```
-
-Recommended README syntax:
-
-```markdown
-![Main window](screenshots/main-light.png)
-![Dark mode](screenshots/main-dark.png)
-```
-
 ---
 
 ## Quick Start
