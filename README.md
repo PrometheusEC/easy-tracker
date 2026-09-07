@@ -262,9 +262,6 @@ easy-tracker/
 └── .gitignore
 ```
 
-`app_icon.ico` is optional and is not included unless you add your own icon.
-
----
 
 ## Windows SmartScreen
 
