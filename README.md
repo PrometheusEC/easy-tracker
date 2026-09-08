@@ -272,7 +272,7 @@ analysis and visualization features.
 If you test it, find a bug, or have an idea for the next version, feel free to
 open an Issue or reach out through GitHub.
 
-GitHub: **https://github.com/YOUR_USERNAME**
+GitHub: **https://github.com/PrometheusEC**
 
 ---
 
